@@ -1,7 +1,7 @@
 # Olá! Eu sou o Pedro Arthur 👋
 
 ## 👨‍💻 Sobre mim
-Sou estudante do 3º período de **Engenharia da Computação** na Universidade Positivo, residindo em Curitiba, PR. 
+Sou estudante de **Engenharia da Computação** na Universidade Positivo, residindo em Curitiba, PR. 
 
 Meu principal diferencial é a visão integrada entre **Software e Hardware**. Além de desenvolver aplicações focadas em regras de negócio e persistência de dados, tenho forte vivência prática com arquitetura de computadores, montagem, manutenção de hardware e projetos práticos de robótica (como robôs seguidores de linha). Sou movido pela curiosidade de entender como as coisas funcionam, desde o código até o processador.
 
@@ -44,8 +44,8 @@ Aplicação de terminal para otimizar o atendimento e gestão de pedidos.
 
 Estou sempre aberto a novas conexões, conversas sobre tecnologia ou oportunidades de estágio!
 
-*   **E-mail:** [Insira seu e-mail aqui, ex: pedro.email@gmail.com]
-*   **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+*   **E-mail:** [Insira seu e-mail aqui, pedromesquita460@gmail.com]
+*   **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/pedropiekarski/)
 *   **GitHub:** [github.com/Pedro-PK](https://github.com/Pedro-PK)
 
 ---
